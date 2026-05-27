@@ -1,0 +1,21 @@
+body{
+    background: #f4f7fb;
+}
+
+.card{
+    transition: 0.3s ease;
+    border-radius: 14px;
+}
+
+.card:hover{
+    transform: translateY(-5px);
+}
+
+.card img{
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.btn-dark{
+    border-radius: 10px;
+}

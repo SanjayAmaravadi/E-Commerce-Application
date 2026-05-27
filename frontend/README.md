@@ -154,25 +154,25 @@ Frontend uses:
 
 ## 🏠 Home Page
 
-![Home](../../screenshots/home.png)
+![Home](../screenshots/home.png)
 
 ---
 
 ## 🛒 Cart Page
 
-![Cart](../../screenshots/cart.png)
+![Cart](../screenshots/cart.png)
 
 ---
 
 ## 💳 Checkout Page
 
-![Checkout](../../screenshots/checkout.png)
+![Checkout](../screenshots/checkout.png)
 
 ---
 
 ## 👑 Admin Dashboard
 
-![Admin Dashboard](../../screenshots/admin-dashboard.png)
+![Admin Dashboard](../screenshots/admin-dashboard.png)
 
 ---
 

@@ -1,4 +1,3 @@
-````md
 # 🚀 E-Commerce Backend (Spring Boot)
 
 Backend for the Full Stack E-Commerce Product Catalog Application.
@@ -221,6 +220,3 @@ http://localhost:8080
 # 👨‍💻 Author
 
 AMARAVADI SANJAY
-
-```
-```

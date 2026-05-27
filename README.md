@@ -1,4 +1,3 @@
-````md
 # 🛒 Full Stack E-Commerce Product Catalog Application
 
 A modern full-stack E-Commerce Product Catalog Application built using:
@@ -263,6 +262,3 @@ AMARAVADI SANJAY
 # 📜 License
 
 This project is for educational and learning purposes.
-
-```
-```

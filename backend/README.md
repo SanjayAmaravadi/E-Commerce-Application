@@ -220,3 +220,9 @@ http://localhost:8080
 # 👨‍💻 Author
 
 AMARAVADI SANJAY
+
+---
+
+# 📜 License
+
+This project is for learning and educational purposes.

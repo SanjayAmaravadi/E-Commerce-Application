@@ -179,3 +179,9 @@ Frontend uses:
 # 👨‍💻 Author
 
 AMARAVADI SANJAY
+
+---
+
+# 📜 License
+
+This project is for learning and educational purposes.

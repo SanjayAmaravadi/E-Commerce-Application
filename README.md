@@ -1,6 +1,6 @@
-# 🛒 Full Stack E-Commerce Product Catalog Application
+# 🛒 Full Stack E-Commerce Application
 
-A modern full-stack E-Commerce Product Catalog Application built using:
+A modern full-stack E-Commerce Application built using:
 
 - Spring Boot
 - React + Vite
